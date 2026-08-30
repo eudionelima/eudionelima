@@ -8,6 +8,7 @@
 
 Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Cibersegurança Ofensiva, com formação voltada para segurança de redes, arquitetura segura e testes de intrusão. Possuo certificações como CNSE, CEH v12, CSAE e CPTE, abrangendo diferentes áreas da segurança cibernética. Sou apaixonado por tecnologia e cybersecurity, sempre buscando aprimorar meus conhecimentos e contribuir para a criação de ambientes digitais mais seguros e resilientes.
 #
+<img align="right" alt="" height="220px" width="440px" src="./src/eudionelima.gif">
 
 
 <h3 align="left">Connect with me!</h3>
@@ -93,7 +94,6 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
    height="200" 
    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=eudionelima&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
 />
-<img align="right" alt="" height="220px" width="880px" src="./src/eudionelima.gif">
 </p>
 
 <picture align="center">
