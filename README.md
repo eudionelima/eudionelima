@@ -8,7 +8,8 @@
 
 Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Cibersegurança Ofensiva, com formação voltada para segurança de redes, arquitetura segura e testes de intrusão. Possuo certificações como CNSE, CEH v12, CSAE e CPTE, abrangendo diferentes áreas da segurança cibernética. Sou apaixonado por tecnologia e cybersecurity, sempre buscando aprimorar meus conhecimentos e contribuir para a criação de ambientes digitais mais seguros e resilientes.
 
-# Never stop learning
+### Never stop learning
+
 <img align="right" alt="" height="220px" width="440px" src="./src/eudionelima.gif">
 
 ### Contribution Streak
