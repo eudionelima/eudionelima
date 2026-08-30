@@ -11,35 +11,10 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 <br>
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-
-      <h3 align="center">Contribution Streak</h3>
-
-      <a href="https://github.com/eudionelima">
-        <img
-          src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true"
-          alt="Dione's GitHub contribution streak"
-          width="500"
-          height="220"
-        />
-      </a>
-
-    </td>
-
-    <td width="50%" align="center">
-
-      <h3 align="center">Never stop learning</h3>
-
-      <img
-        src="./src/eudionelima.gif"
-        alt="eudionelima gif"
-        width="500"
-        height="220"
-      />
-
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%"><strong>Contribution Streak</strong><br><br><a href="https://github.com/eudionelima"><img src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true" alt="Dione's GitHub contribution streak" width="500" height="220"></a></td>
+<td align="center" width="50%"><strong>Never stop learning</strong><br><br><img src="./src/eudionelima.gif" alt="eudionelima gif" width="500" height="220"></td>
+</tr>
 </table>
 
 <br>
@@ -66,19 +41,7 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 <br clear="both">
 
 <picture align="center">
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg"
-  >
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg"
-  >
-
-  <img 
-    align="center" 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake.svg">
 </picture>
