@@ -1,0 +1,362 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="720"
+  viewBox="0 0 1000 720">
+
+  <defs>
+
+    <linearGradient id="terminal-bg"
+      x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow
+        dx="0"
+        dy="8"
+        stdDeviation="14"
+        flood-color="#000000"
+        flood-opacity="0.45"/>
+    </filter>
+
+    <style>
+      .terminal {
+        font-family:
+          "Fira Code",
+          "JetBrains Mono",
+          "SFMono-Regular",
+          Consolas,
+          monospace;
+      }
+
+      .command {
+        fill: #58a6ff;
+        font-weight: 600;
+      }
+
+      .output {
+        fill: #c9d1d9;
+      }
+
+      .title {
+        fill: #f0f6fc;
+        font-weight: 700;
+      }
+
+      .muted {
+        fill: #8b949e;
+      }
+
+      .cursor {
+        fill: #58a6ff;
+      }
+
+      .line {
+        opacity: 0;
+        animation: showLine 0.35s ease forwards;
+      }
+
+      @keyframes showLine {
+        from {
+          opacity: 0;
+          transform: translateX(-8px);
+        }
+
+        to {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+
+      .blink {
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes blink {
+        50% {
+          opacity: 0;
+        }
+      }
+    </style>
+  </defs>
+
+  <rect
+    x="20"
+    y="20"
+    width="960"
+    height="680"
+    rx="18"
+    fill="url(#terminal-bg)"
+    filter="url(#shadow)"
+  />
+
+  <rect
+    x="20"
+    y="20"
+    width="960"
+    height="58"
+    rx="18"
+    fill="#21262d"
+  />
+
+  <circle cx="55" cy="49" r="8" fill="#ff5f56"/>
+  <circle cx="80" cy="49" r="8" fill="#ffbd2e"/>
+  <circle cx="105" cy="49" r="8" fill="#27c93f"/>
+
+  <text
+    x="500"
+    y="54"
+    text-anchor="middle"
+    class="terminal muted"
+    font-size="16">
+    eudionelima@github — terminal
+  </text>
+
+  <text
+    x="52"
+    y="112"
+    class="terminal title"
+    font-size="18">
+    GitHub Stats Terminal
+  </text>
+
+
+        <text
+          x="52"
+          y="145"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:0.35s">
+          $ whoami
+        </text>
+        
+
+        <text
+          x="52"
+          y="170"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:0.57s">
+          Dione Lima
+        </text>
+        
+
+        <text
+          x="52"
+          y="195"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:0.79s">
+          $ neofetch
+        </text>
+        
+
+        <text
+          x="52"
+          y="220"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:1.01s">
+          ╭──────────────────────────────────────╮
+        </text>
+        
+
+        <text
+          x="52"
+          y="245"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:1.23s">
+          │  USER        eudionelima             │
+        </text>
+        
+
+        <text
+          x="52"
+          y="270"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:1.45s">
+          │  ROLE        Cybersecurity            │
+        </text>
+        
+
+        <text
+          x="52"
+          y="295"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:1.67s">
+          │  LOCATION    São Paulo, Brazil        │
+        </text>
+        
+
+        <text
+          x="52"
+          y="320"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:1.89s">
+          │  STATUS      Online                   │
+        </text>
+        
+
+        <text
+          x="52"
+          y="345"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:2.11s">
+          ╰──────────────────────────────────────╯
+        </text>
+        
+
+        <text
+          x="52"
+          y="370"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:2.33s">
+          $ github --stats
+        </text>
+        
+
+        <text
+          x="52"
+          y="395"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:2.55s">
+          Repositories : 9
+        </text>
+        
+
+        <text
+          x="52"
+          y="420"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:2.77s">
+          Followers    : 0
+        </text>
+        
+
+        <text
+          x="52"
+          y="445"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:2.99s">
+          Following    : 0
+        </text>
+        
+
+        <text
+          x="52"
+          y="470"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:3.21s">
+          Stars        : 0
+        </text>
+        
+
+        <text
+          x="52"
+          y="495"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:3.43s">
+          Forks        : 0
+        </text>
+        
+
+        <text
+          x="52"
+          y="520"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:3.65s">
+          $ languages
+        </text>
+        
+
+        <text
+          x="52"
+          y="545"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:3.87s">
+          Shell, PHP, HTML, CSS, JavaScript
+        </text>
+        
+
+        <text
+          x="52"
+          y="570"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:4.09s">
+          $ about
+        </text>
+        
+
+        <text
+          x="52"
+          y="595"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:4.31s">
+          Offensive Security Specialist | Red Team
+        </text>
+        
+
+        <text
+          x="52"
+          y="620"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:4.53s">
+          $ uptime
+        </text>
+        
+
+        <text
+          x="52"
+          y="645"
+          class="terminal output line"
+          font-size="16"
+          style="animation-delay:4.75s">
+          Always learning. Always improving.
+        </text>
+        
+
+        <text
+          x="52"
+          y="670"
+          class="terminal command line"
+          font-size="16"
+          style="animation-delay:4.97s">
+          $ exit
+        </text>
+        
+
+    <rect
+      x="52"
+      y="681"
+      width="9"
+      height="19"
+      class="cursor blink"
+    />
+
+    <text
+      x="72"
+      y="698"
+      class="terminal muted"
+      font-size="14">
+      last update: GitHub Actions
+    </text>
+
+    </svg>
+    
