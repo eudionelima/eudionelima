@@ -6,7 +6,7 @@
 
 #
 
-Dione Lima 👋 | Postgrad in Offensive & Defensive Security | CEH v12 • CPTE • CSAE • CNSE | Turning vulnerabilities into security. Focused on penetration testing, resilient architectures, and network defense to strengthen corporate security.
+Dione Lima 👋 | Offensive & Defensive Security | CEH v12 • CPTE • CSAE • CNSE | Turning vulnerabilities into security. Focused on pentesting, resilient architecture, and network defense for enterprises.
 
 <br>
 
