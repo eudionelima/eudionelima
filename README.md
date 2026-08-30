@@ -6,8 +6,8 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@eudionelima)".
+Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Cibersegurança Ofensiva pela ACADI-TI, com formação voltada para segurança de redes, arquitetura segura e testes de intrusão. Possuo certificações como CNSE, CEH v12, CSAE e CPTE, abrangendo diferentes áreas da segurança cibernética. Sou apaixonado por tecnologia e cybersecurity, sempre buscando aprimorar meus conhecimentos e contribuir para a criação de ambientes digitais mais seguros e resilientes. Compartilho meu conhecimento através do
+meu canal no YouTube "[Dione Lima](https://www.youtube.com/@eudionelima)".
 
 #
 
