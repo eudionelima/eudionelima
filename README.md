@@ -14,7 +14,7 @@ Dione Lima 👋 | Pós em Segurança Ofensiva & Defensiva | CEH v12 • CPTE •
   <img
     src="./assets/github_stats.svg"
     alt="Dione Lima - GitHub Terminal Stats"
-    width="900"
+    width="800"
   />
 </div>
 
