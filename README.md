@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+"
-      alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -11,30 +10,13 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Contribution Streak</h3>
-      <a href="https://github.com/eudionelima">
-        <img
-          src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true"
-          alt="Dione's GitHub contribution streak"
-          width="500"
-          height="220"
-        />
-      </a>
-    </td>
+<h3 align="center">Contribution Streak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Never stop learning</h3>
 
-    <td align="center" width="50%">
-      <h3>Never stop learning</h3>
-      <img
-        src="./src/eudionelima.gif"
-        alt="eudionelima gif"
-        width="500"
-        height="220"
-      />
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/eudionelima"><img src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true" alt="Dione's GitHub contribution streak" width="500" height="220"></a></td>
+<td width="50%" align="center"><img src="./src/eudionelima.gif" alt="eudionelima gif" width="500" height="220"></td>
+</tr>
 </table>
 
 <br>
@@ -60,20 +42,20 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 
 <br clear="both">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
+<picture align="center">
+  <source 
+    media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg"
   >
 
-  <source
-    media="(prefers-color-scheme: light)"
+  <source 
+    media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake-dark.svg"
   >
 
-  <img
-    align="center"
-    alt="github contribution grid snake animation"
+  <img 
+    align="center" 
+    alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/eudionelima/eudionelima/output/github-contribution-grid-snake.svg"
   >
 </picture>
