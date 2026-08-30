@@ -12,8 +12,19 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 
 <table>
 <tr>
-<td align="center" width="50%"><strong>Contribution Streak</strong><br><br><a href="https://github.com/eudionelima"><img src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true" alt="Dione's GitHub contribution streak" width="500" height="220"></a></td>
-<td align="center" width="50%"><strong>Never stop learning</strong><br><br><img src="./src/eudionelima.gif" alt="eudionelima gif" width="500" height="220"></td>
+<td align="center" width="50%">
+<strong>Contribution Streak</strong>
+<br><br>
+<a href="https://github.com/eudionelima">
+<img src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true" alt="Dione's GitHub contribution streak" width="100%">
+</a>
+</td>
+
+<td align="center" width="50%">
+<strong>Never stop learning</strong>
+<br><br>
+<img src="./src/eudionelima.gif" alt="eudionelima gif" width="100%">
+</td>
 </tr>
 </table>
 
