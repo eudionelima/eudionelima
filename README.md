@@ -6,7 +6,7 @@
 
 #
 
-Dione Lima 👋 | Pós em Segurança Ofensiva & Defensiva | CEH v12 • CPTE • CSAE • CNSE | Transformando vulnerabilidades em segurança. Focado em testes de penetração, arquiteturas resilientes e defesa de redes para fortalecer a postura de segurança corporativa.
+Dione Lima 👋 | Pós em Segurança Ofensiva & Defensiva | CEH v12 • CPTE • CSAE • CNSE | Transformando vulnerabilidades em segurança. Focado em testes de penetração, arquiteturas resilientes e defesa de redes para fortalecer a segurança corporativa.
 
 <br>
 
