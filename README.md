@@ -10,72 +10,15 @@ Me chamo Dione Lima, tenho 38 anos e moro em São Paulo. Sou pós-graduado em Ci
 #
 <img align="right" alt="" height="220px" width="440px" src="./src/eudionelima.gif">
 
+### Contribution Streak
 
-<h3 align="left">Connect with me!</h3>
+<div align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=FF00F6\&color\:FFF)](mailto:eudionelima@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=FF00F6\&color\:FFF)](https://www.linkedin.com/in/eudionelima/)
+<a href="https://github.com/eudionelima">
+  <img src="https://streak-stats.demolab.com/?user=eudionelima&theme=dark&hide_border=true" alt="Dione's GitHub contribution streak" />
+</a>
 
-<h3 align="left">My Stack ~</h3>
-
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/> <img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/> <img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
- align="left"
- alt="Github"
- title="GitHub"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
- align="left" 
- alt="Git" 
- title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Python" 
- title="Python"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
- align="left"
- alt="Vercel"
- title="Vercel"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/> <br/> <br/>
+</div>
 
 <h3 align="left">GitHub Stats</h3>
 
